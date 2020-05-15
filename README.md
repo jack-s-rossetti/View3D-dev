@@ -5,9 +5,6 @@ Documentation
 -------------
 Documentation for downloading and installing the View3D software can be found here: https://github.com/jasondegraw/View3D
 
-Developmental file
--------------
-
 Jack Rossetti
 
 May 15, 2020
